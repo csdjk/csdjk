@@ -9,15 +9,15 @@
 
 ![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
 
-![csdjk's github activity profile-3d-contrib](./profile-3d-contrib/profile-night-green.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csdjk&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=csdjk&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csdjk&theme=codeSTACKr)
 
+![csdjk's github activity profile-3d-contrib](./profile-3d-contrib/profile-night-green.svg)
 
 
-<h3 align="center">Languages:</h3>
+<!-- <h3 align="center">Languages:</h3>
 <p align="center"> 
 <img height="32" src="https://img.shields.io/badge/-HLSL-000?&logo=Unity" />
 <img height="32" src="https://img.shields.io/badge/-CG-000?&logo=Unity" />
@@ -38,4 +38,4 @@
 <img height="32" src="https://img.shields.io/badge/-Houdini-000?&logo=Houdini" />
 <img height="32" src="https://img.shields.io/badge/-Blender-000?&logo=Blender" />
 <img height="32" src="https://img.shields.io/badge/-PS-000?&logo=adobephotoshop" />
-</p>
+</p> -->
