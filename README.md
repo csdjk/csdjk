@@ -1,14 +1,13 @@
 
-![](./image/header_.png)
+![Header Image](./image/header_.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Li+ChangLong;+Welcome+to+My+Profile!;I'm+a+game+development+and+am+a+technical+artist;+I+like+graphics;Always+learning+new+things+;)](https://git.io/typing-svg)
 
-
 ![csdjk's github activity graph](https://raw.githubusercontent.com/csdjk/csdjk/output/github-contribution-grid-snake.svg)
 
-
-![:Augenestern-creator](https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h)
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h" alt=":Augenestern-creator">
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csdjk&theme=codeSTACKr)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=csdjk&theme=codeSTACKr)
