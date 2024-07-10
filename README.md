@@ -8,16 +8,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/csdjk/csdjk/output/github-contribution-grid-snake.svg" alt=":Augenestern-creator">
 </p>
-
+<!--
 <p align="center">
   <img src="https://count.getloli.com/get/@:Augenestern-creator?theme=gelbooru-h" alt=":Augenestern-creator">
 </p>
+-->
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=csdjk&theme=codeSTACKr" alt=":Augenestern-creator">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=csdjk&theme=codeSTACKr" alt=":Augenestern-creator">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csdjk&theme=codeSTACKr" alt=":Augenestern-creator">
 </p>
+
 
 ![csdjk's github activity profile-3d-contrib](./profile-3d-contrib/profile-night-green.svg)
 
